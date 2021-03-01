@@ -11,8 +11,6 @@
 </body>
 </html>
 <script>
-
-
     function dage(){
         var result =document.getElementById("rs");
 
